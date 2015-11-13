@@ -1,0 +1,15 @@
+{
+	"name" : "Benichou34/helium",
+	"description" : "Helium is a tool for discovering unused CSS",
+	"homepage" : "https://github.com/Benichou34/helium",
+	"license" : "MIT",
+	"config" : {
+		"preferred-install" : "dist"
+	},
+	"type" : "prestashop-module",
+	"authors" : [{
+			"email" : "benichou.software@gmail.com",
+			"name" : "Benichou"
+		}
+	]
+}
